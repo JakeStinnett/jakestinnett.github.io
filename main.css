@@ -2,7 +2,7 @@ body, html {
   height: 100%;
 }
 
-.blob {
+svg.blob {
   height: 30%;
   width: 30%;
 }
